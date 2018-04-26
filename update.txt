@@ -1,6 +1,6 @@
 xh00 -- Web Developer
 Update log from: https://xh00.tk
-Can be found at: https://xh00.tk/update.text
+Can be found at: https://xh00.tk/update.txt
 
 I have been working on some little server utilities locally.
 They will most likely be released at some time in the near future.
