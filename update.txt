@@ -1,0 +1,9 @@
+xh00 -- Web Developer
+Update log from: https://xh00.tk
+Can be found at: https://xh00.tk/update.text
+
+I have been working on some little server utilities locally.
+They will most likely be released at some time in the near future.
+If not I will post an update here about why it wasn't released and there will most-likely
+be a valid reason for it.
+- 25/04/18

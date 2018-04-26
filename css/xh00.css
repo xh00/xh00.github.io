@@ -1,0 +1,58 @@
+body {
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+  margin: 0px;
+  background-color: white;
+  animation: fadeIn 1s ease;
+  color: black;
+  margin: 0px;
+  padding: 0px;
+}
+.boxx {
+  margin: 5px;
+  padding: 90px 20px;
+  margin-top: 15px;
+  background-color: rgb(200 , 200, 200);
+}
+.box2 {
+  padding: 2px;
+  margin: 15% 5px;
+  text-align: left;
+}
+.navv {
+  background-color: rgb(200, 200, 200);
+  padding: 50px;
+}
+.navv h1 {
+  margin-bottom:0px;
+  padding-bottom: 0px;
+}
+.navv p {
+  margin-top: 0px;
+  padding-top: 10px;
+}
+.spcr {
+  padding: 20px;
+}
+.buttonn {
+  display: inline-block;
+  background-color: rgb(150, 150, 150);
+  padding: 10px 20px;
+  text-decoration: none;
+  font-weight: bolder;
+  margin-top: 5px;
+  border: 0px;
+  font-size: 15px;
+  transition: .5s ease;
+}
+.buttonn:hover {
+  background-color: rgb(100, 100, 100);
+}
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
